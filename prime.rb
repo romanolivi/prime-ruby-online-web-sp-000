@@ -1,5 +1,9 @@
 def prime?(num)
-  answer = false
-  num.each do |number|
-    if number == 
+  if num <= 1 
+    return false 
+
+
+
+
+
 end
